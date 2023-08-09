@@ -29,9 +29,5 @@ Creating a laptop price predictor using a RandomForest Regressor model with Grid
 6. Make predictions: Use the loaded model to make predictions based on the user's input.
 7. Display results: Display the predicted laptop price on the Streamlit app.
 
-**Step 6: Deployment**
-1. Hosting platform: Choose a hosting platform to deploy your Streamlit app. Heroku, Streamlit Sharing, or AWS are popular options.
-2. Prepare files: Create the necessary files like `requirements.txt` listing the required libraries and `Procfile` (for Heroku) specifying the app command.
-3. Deploy: Follow the platform-specific deployment instructions to deploy your Streamlit app.
 
-Remember to keep your project organized with clear documentation and comments, and consider adding visualization features to your Streamlit app to make it more user-friendly and engaging. Good luck with your project!
+
